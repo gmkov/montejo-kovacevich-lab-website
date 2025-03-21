@@ -1,1 +1,1 @@
-Sitemap: http://www.montejo-kovacevich-lab.com/sitemap.xml
+Sitemap: https://gmkov.github.io/montejo-kovacevich-lab/sitemap.xml
