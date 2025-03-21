@@ -5,6 +5,6 @@
 
   # gmkov's Website
 
-  Visit **[gmkov.github.io/montejo-kovacevich-lab](https://gmkov.github.io/montejo-kovacevich-lab)** 🚀
+  Visit **[montejo-kovacevich-lab.com](https://montejo-kovacevich-lab.com)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
