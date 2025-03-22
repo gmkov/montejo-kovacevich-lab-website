@@ -3,7 +3,7 @@
 
 # gmkov's Website
 
-An engaging 1-3 sentence description of your lab.
+We study the genomics of adaptation to the environment in insects. **Website under slow construction!**
 
 {% include section.html %}
 
