@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # gmkov's Website
+  # Montejo-Kovacevich Lab Website
 
   UNDER CONSTRUCTION
 Visit **[www.montejo-kovacevich-lab.com](https://www.montejo-kovacevich-lab.com)** 🚀
