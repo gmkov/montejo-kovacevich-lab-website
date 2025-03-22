@@ -1,7 +1,7 @@
 ---
 name: Gabriela Montejo-Kovacevich
 image: images/gmk.johns.jpeg
-role: pi
+role: principal-investigator
 affiliation: Uppsala University
 aliases:
   - G. Montejo-Kovacevich
