@@ -10,12 +10,6 @@ nav:
 Latest articles are automatically posted here. Check individual lab members for other papers.
 {% include section.html %}
 
-<!-- ## Highlighted -->
-
-<!-- {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
-
-<!-- {% include section.html %} -->
-
 ## All
 
 {% include search-box.html %}
