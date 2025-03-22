@@ -11,7 +11,8 @@ We are an international, diverse team of evolutionary biologists and ecologists.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'phd'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
