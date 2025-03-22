@@ -7,27 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+There are many opportunities in Sweden for applying for external Postdoc stipends or fellowships, so please contact me for more information (here is a [link](https://docs.google.com/spreadsheets/d/1bDkeeJd47baKxUQxaqAhXY5IuUdVHpyuugHL241a4Ps/edit?gid=0#gid=0)).
+
+When contacting me please include your interests and a short CV. Uppsala offers an international and diverse environment, with nature and culture at our doorstep, as well as strong working and social benefits (see some employee benefits here + free childcare for >1 year olds). I particularly encourage students and researchers from underrepresented backgrounds to apply.
+
+The lab is based in the Animal Ecology Program at the Ecology and Genetics Department, Evolutionary Biology Centre, Uppsala University
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="gabriela.montejo-kovacevich@scilifelab.uu.se"
+  link="gabriela.montejo-kovacevich@scilifelab.uu.se"
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
+  type="EBC
+Avd för Zooekologi
+Kåbovägen 4A
+752 36 Uppsala, Sweden"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps](https://maps.app.goo.gl/YEZXoRv3f2AoyDbU9"
 %}
 
 {% include section.html %}
