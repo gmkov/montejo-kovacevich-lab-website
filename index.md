@@ -1,7 +1,7 @@
 ---
 ---
 
-# gmkov's Website
+# Welcome
 
 We study the genomics of adaptation to the environment in insects. **Website under slow construction!**
 
