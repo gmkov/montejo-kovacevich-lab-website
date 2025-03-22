@@ -1,6 +1,6 @@
 ---
 name: Christina Panagaki
-image: images/christina.crop
+image: images/christina.crop.jpg
 role: phd
 group: alum
 links:
