@@ -10,7 +10,7 @@ nav:
 Latest articles are automatically posted here. Check individual lab members for other papers.
 {% include section.html %}
 
-<!-- ## Highlighted
+<!-- ## Highlighted -->
 
 <!-- {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
 
