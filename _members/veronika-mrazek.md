@@ -2,7 +2,8 @@
 name: Veronika Mrazek
 image: images/photo.jpg
 description: PhD student
-role: alumn
+role: phd
+group: alum
 links:
   email: veronikamrazek98@gmail.com
 ---
