@@ -1,174 +1,473 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1101/2024.07.28.605483
+  title: "The genetic architecture of resistance to flubendiamide insecticides in<i>Helicoverpa\
+    \ armigera</i>(H\xFCbner) (Lepidoptera: Noctuidae)"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Douglas Amado
+  - Eva L. Koch
+  - Erick M. G. Cordeiro
+  - "Wellingson A. Ara\xFAjo"
+  - Antonio A. F. Garcia
+  - David G. Heckel
+  - Gabriela Montejo-Kovacevich
+  - Henry L. North
+  - "Alberto S. Corr\xEAa"
+  - Chris D. Jiggins
+  - Celso Omoto
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2024-07-28'
+  link: https://doi.org/g89d2x
+  orcid: 0000-0003-3716-9929
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1371/journal.pgen.1011318
+  title: Genomic evidence reveals three W-autosome fusions in Heliconius butterflies
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Nicol Rueda-M
+  - Carolina Pardo-Diaz
+  - Gabriela Montejo-Kovacevich
+  - W. Owen McMillan
+  - Krzysztof M. Kozak
+  - Carlos F. Arias
+  - Jonathan Ready
+  - Shane McCarthy
+  - Richard Durbin
+  - Chris D. Jiggins
+  - Joana I. Meier
+  - Camilo Salazar
+  publisher: PLOS Genetics
+  date: '2024-07-18'
+  link: https://doi.org/g89d2z
+  orcid: 0000-0003-3716-9929
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1111/phen.12431
+  title: Heat stress reduced survival but sped up development in <i>Heliconius erato</i>
+    butterflies
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Yuqian Huang
+  - Josie McPherson
+  - Chris D. Jiggins
+  - "Gabriela Montejo\u2010Kovacevich"
+  publisher: Physiological Entomology
+  date: '2024-02-20'
+  link: https://doi.org/g89d22
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.03.06.531374
+  title: Genomic evidence reveals three sequential W-autosome fusions in Heliconius
+    butterflies
+  authors:
+  - Nicol Rueda-M
+  - Carolina Pardo-Diaz
+  - Gabriela Montejo-Kovacevich
+  - W. Owen McMillan
+  - Krzysztof M. Kozak
+  - Carlos F. Arias
+  - Jonathan Ready
+  - Shane McCarthy
+  - Richard Durbin
+  - Chris D. Jiggins
+  - Joana Meier
+  - Camilo Salazar
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-03-08'
+  link: https://doi.org/g89d23
+  orcid: 0000-0003-3716-9929
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1101/2022.12.07.519472
+  title: Effects of temperature on the development of<i>Heliconius erato</i>butterflies
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Yuqian Huang
+  - Josie McPherson
+  - Chris D. Jiggins
+  - Gabriela Montejo-Kovacevich
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2022-12-09'
+  link: https://doi.org/g89d24
+  orcid: 0000-0003-3716-9929
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1038/s41467-022-32316-x
+  title: Repeated genetic adaptation to altitude in two tropical butterflies
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Gabriela Montejo-Kovacevich
+  - Joana I. Meier
+  - Caroline N. Bacquet
+  - Ian A. Warren
+  - Yingguang Frank Chan
+  - Marek Kucka
+  - Camilo Salazar
+  - Nicol Rueda-M
+  - Stephen H. Montgomery
+  - W. Owen McMillan
+  - Krzysztof M. Kozak
+  - Nicola J. Nadeau
+  - Simon H. Martin
+  - Chris D. Jiggins
+  publisher: Nature Communications
+  date: '2022-08-09'
+  link: https://doi.org/gssngg
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1365-2664.14162
+  title: Riparian reserves protect butterfly communities in selectively logged tropical
+    forest
+  authors:
+  - "Gabriela Montejo\u2010Kovacevich"
+  - Charles J. Marsh
+  - Sophie H. Smith
+  - Carlos A. Peres
+  - David P. Edwards
+  publisher: Journal of Applied Ecology
+  date: '2022-04-02'
+  link: https://doi.org/gv6rpf
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.11.30.470630
+  title: Repeated genetic adaptation to high altitude in two tropical butterflies
+  authors:
+  - Gabriela Montejo-Kovacevich
+  - Joana I. Meier
+  - Caroline N. Bacquet
+  - Ian A. Warren
+  - Yingguang Frank Chan
+  - Marek Kucka
+  - Camilo Salazar
+  - Nicol Rueda
+  - Stephen H. Montgomery
+  - W. Owen McMillan
+  - Krzysztof M. Kozak
+  - Nicola J. Nadeau
+  - Simon Martin
+  - Chris D. Jiggins
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-12-01'
+  link: https://doi.org/g89d25
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.16067
+  title: "Genomics of altitude\u2010associated wing shape in two tropical butterflies"
+  authors:
+  - "Gabriela Montejo\u2010Kovacevich"
+  - Patricio A. Salazar
+  - Sophie H. Smith
+  - Kimberly Gavilanes
+  - Caroline N. Bacquet
+  - Yingguang Frank Chan
+  - Chris D. Jiggins
+  - Joana I. Meier
+  - Nicola J. Nadeau
+  publisher: Molecular Ecology
+  date: '2021-07-28'
+  link: https://doi.org/gsxmzh
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/evo.14272
+  title: Selection and isolation define a heterogeneous divergence landscape between
+    hybridizing<i>Heliconius</i>butterflies
+  authors:
+  - Steven M. Van Belleghem
+  - Jared M. Cole
+  - "Gabriela Montejo\u2010Kovacevich"
+  - Caroline N. Bacquet
+  - W. Owen McMillan
+  - Riccardo Papa
+  - Brian A. Counterman
+  publisher: Evolution
+  date: '2021-06-06'
+  link: https://doi.org/gj5f98
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.68549
+  title: Cortex cis-regulatory switches establish scale colour identity and pattern
+    diversity in Heliconius
+  authors:
+  - Luca Livraghi
+  - Joseph J Hanly
+  - Steven M Van Bellghem
+  - Gabriela Montejo-Kovacevich
+  - Eva SM van der Heijden
+  - Ling Sheng Loh
+  - Anna Ren
+  - Ian A Warren
+  - James J Lewis
+  - Carolina Concha
+  - Laura Hebberecht
+  - Charlotte J Wright
+  - Jonah M Walker
+  - Jessica Foley
+  - Zachary H Goldberg
+  - Henry Arenas-Castro
+  - Camilo Salazar
+  - Michael W Perry
+  - Riccardo Papa
+  - Arnaud Martin
+  - W Owen McMillan
+  - Chris D Jiggins
+  publisher: eLife
+  date: '2021-07-19'
+  link: https://doi.org/gsvdsr
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.12.05.412882
+  title: Genomics of altitude-associated wing shape in two tropical butterflies
+  authors:
+  - Gabriela Montejo-Kovacevich
+  - Patricio A. Salazar
+  - Sophie H. Smith
+  - Kimberly Gavilanes
+  - Caroline N. Bacquet
+  - Yingguang Frank Chan
+  - Chris D. Jiggins
+  - Joana I. Meier
+  - Nicola J. Nadeau
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-12-06'
+  link: https://doi.org/gsx95h
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ece3.6526
+  title: "Exploring context dependency in eco\u2010evolutionary patterns with the\
+    \ stick insect <i>Timema cristinae</i>"
+  authors:
+  - "Gabriela Montejo\u2010Kovacevich"
+  - Timothy Farkas
+  - Andrew Beckerman
+  - Patrik Nosil
+  publisher: Ecology and Evolution
+  date: '2020-07-15'
+  link: https://doi.org/g89d26
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.26.116533
+  title: <i>Cortex cis</i>-regulatory switches establish scale colour identity and
+    pattern diversity in<i>Heliconius</i>
+  authors:
+  - Luca Livraghi
+  - Joseph J. Hanly
+  - Steven M. Van Belleghem
+  - Gabriela Montejo-Kovacevich
+  - Eva S. M. van der Heijden
+  - Ling Sheng Loh
+  - Anna Ren
+  - Ian A. Warren
+  - James J. Lewis
+  - Carolina Concha
+  - "Laura H. L\xF3pez"
+  - Charlotte Wright
+  - Jonah M. Walker
+  - Jessica Foley
+  - Zachary H. Goldberg
+  - Henry Arenas-Castro
+  - Michael W. Perry
+  - Riccardo Papa
+  - Arnaud Martin
+  - W. Owen McMillan
+  - Chris D. Jiggins
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-29'
+  link: https://doi.org/gszc9z
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ece3.6079
+  title: Species specificity and intraspecific variation in the chemical profiles
+    of <i>Heliconius</i> butterflies across a large geographic range
+  authors:
+  - Kathy Darragh
+  - "Gabriela Montejo\u2010Kovacevich"
+  - Krzysztof M. Kozak
+  - Colin R. Morrison
+  - Clarisse M. E. Figueiredo
+  - Jonathan S. Ready
+  - Camilo Salazar
+  - Mauricio Linares
+  - Kelsey J. R. P. Byers
+  - Richard M. Merrill
+  - W. Owen McMillan
+  - Stefan Schulz
+  - Chris D. Jiggins
+  publisher: Ecology and Evolution
+  date: '2020-04-03'
+  link: https://doi.org/g89d27
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.09.034470
+  title: Selection and gene flow define polygenic barriers between incipient butterfly
+    species
+  authors:
+  - Steven M. Van Belleghem
+  - Jared M. Cole
+  - Gabriela Montejo-Kovacevich
+  - Caroline N. Bacquet
+  - W. Owen McMillan
+  - Riccardo Papa
+  - Brian A. Counterman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-11'
+  link: https://doi.org/gkxjbd
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.01.14.905950
+  title: Evolutionary and ecological processes influencing chemical defense variation
+    in an aposematic and mimetic<i>Heliconius</i>butterfly
+  authors:
+  - Anniina L. K. Mattila
+  - Chris D. Jiggins
+  - "\xD8ystein H. Opedal"
+  - Gabriela Montejo-Kovacevich
+  - "\xC9rika de Castro"
+  - William O. McMillan
+  - Caroline Bacquet
+  - Marjo Saastamoinen
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-01-15'
+  link: https://doi.org/gk224z
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1242/jeb.220426
+  title: Microclimate buffering and thermal tolerance across elevations in a tropical
+    butterfly
+  authors:
+  - Gabriela Montejo-Kovacevich
+  - Simon H. Martin
+  - Joana I. Meier
+  - Caroline N. Bacquet
+  - Monica Monllor
+  - Chris D. Jiggins
+  - Nicola J. Nadeau
+  publisher: Journal of Experimental Biology
+  date: '2020-01-01'
+  link: https://doi.org/gg6scc
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2019.12.19.882357
+  title: Microclimate buffering and thermal tolerance across elevations in a tropical
+    butterfly
+  authors:
+  - Gabriela Montejo-Kovacevich
+  - Simon H. Martin
+  - Joana I. Meier
+  - Caroline N. Bacquet
+  - Monica Monllor
+  - Chris D. Jiggins
+  - Nicola J. Nadeau
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-12-19'
+  link: https://doi.org/gkz422
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/evo.13865
+  title: "Altitude and life\u2010history shape the evolution of<i>Heliconius</i>wings"
+  authors:
+  - "Gabriela Montejo\u2010Kovacevich"
+  - Jennifer E. Smith
+  - Joana I. Meier
+  - Caroline N. Bacquet
+  - "Eva Whiltshire\u2010Romero"
+  - Nicola J. Nadeau
+  - Chris D. Jiggins
+  publisher: Evolution
+  date: '2019-11-06'
+  link: https://doi.org/gk6j7z
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/690396
+  title: Altitude and life-history shape the evolution of<i>Heliconius</i>wings
+  authors:
+  - Gabriela Montejo-Kovacevich
+  - Jennifer E. Smith
+  - Joana I. Meier
+  - Caroline N. Bacquet
+  - Eva Whiltshire-Romero
+  - Nicola J. Nadeau
+  - Chris D. Jiggins
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-07-02'
+  link: https://doi.org/gkxh4f
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/573469
+  title: Species specificity and intraspecific variation in the chemical profiles
+    of<i>Heliconius</i>butterflies across a large geographic range
+  authors:
+  - Kathy Darragh
+  - Gabriela Montejo-Kovacevich
+  - Krzysztof M. Kozak
+  - Colin R. Morrison
+  - Clarisse M. E. Figueiredo
+  - Jonathan S. Ready
+  - Camilo Salazar
+  - Mauricio Linares
+  - Kelsey J. R. P. Byers
+  - Richard M. Merrill
+  - W. Owen McMillan
+  - Stefan Schulz
+  - Chris D. Jiggins
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-03-14'
+  link: https://doi.org/gkvqw4
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biocon.2018.06.012
+  title: Impacts of selective logging management on butterflies in the Amazon
+  authors:
+  - Gabriela Montejo-Kovacevich
+  - Matthew G. Hethcoat
+  - Felix K.S. Lim
+  - Charles J. Marsh
+  - Dayana Bonfantti
+  - Carlos A. Peres
+  - David P. Edwards
+  publisher: Biological Conservation
+  date: '2018-09-01'
+  link: https://doi.org/gd5w57
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18474/JES17-11.1
+  title: 'Concealed Androconial Scales in Metalmark Butterflies (Lepidoptera: Riodinidae):
+    New Insights from Confocal Laser Scanning Microscopy'
+  authors:
+  - Gabriela Montejo-Kovacevich
+  - Tomasz Goral
+  - Blanca Huertas
+  publisher: Journal of Entomological Science
+  date: '2017-10-01'
+  link: https://doi.org/gcrdn5
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsbl.2014.0896
+  title: "Density-dependent selection closes an eco-evolutionary feedback loop in\
+    \ the stick insect\n            <i>Timema cristinae</i>"
+  authors:
+  - Timothy E. Farkas
+  - Gabriela Montejo-Kovacevich
+  publisher: Biology Letters
+  date: '2014-12-01'
+  link: https://doi.org/g89d28
+  orcid: 0000-0003-3716-9929
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +483,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +499,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
