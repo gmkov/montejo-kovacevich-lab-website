@@ -17,6 +17,10 @@ phd:
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+  
+visitor:
+  icon: fa-solid fa-glasses
+  description: Visitor
 
 programmer:
   icon: fa-solid fa-code
