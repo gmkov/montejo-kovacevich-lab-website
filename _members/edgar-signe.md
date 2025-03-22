@@ -1,7 +1,7 @@
 ---
 name: Edgar Signe
 image: images/image.jpeg
-role: Student Intern
+role: undergrad
 group: alum
 links:
   email: signe.edgar@gmail.com
