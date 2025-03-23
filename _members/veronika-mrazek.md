@@ -1,7 +1,6 @@
 ---
 name: Veronika Mrazek
 image: images/photo.jpg
-description: PhD student
 role: phd
 group: current
 links:
