@@ -2,7 +2,7 @@
 name: Christina Panagaki
 image: images/christina.crop.jpg
 role: phd
-group: alum
+group: current
 links:
   email: christina.panagaki@ebc.uu.se
 ---
