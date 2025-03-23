@@ -9,16 +9,14 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: principal-investigator" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: master, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: bioinformatician, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: labtech, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: assistant, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: intern, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: guest, group: current" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'master' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'intern' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'guest' and group == 'current'" %}
+
 {% include section.html background="images/banner.jpg" dark=true %}
 
 {% include section.html %}
