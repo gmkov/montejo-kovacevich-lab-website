@@ -14,9 +14,17 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+master:
+  icon: fa-solid fa-user-graduate
+  description: Masters student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
+intern:
+  icon: fa-solid fa-user-graduate
+  description: Intern
   
 visitor:
   icon: fa-solid fa-glasses
