@@ -1,7 +1,6 @@
 ---
 name: Jana Weigel
 image: images/photo.jpg
-description: PhD student
 role: master
 group: current
 links:
