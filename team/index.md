@@ -15,7 +15,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'master' and group == 'current'" %}
 {% include list.html data="members" component="portrait" filter="role == 'intern' and group == 'current'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and group == 'current'" %}
-{% include list.html data="members" component="portrait" filter="role == 'guest' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'visitor' and group == 'current'" %}
 
 {% include section.html background="images/banner.jpg" dark=true %}
 
