@@ -2,7 +2,7 @@
 name: Edgar Signe
 image: images/image.jpeg
 role: undergrad
-group: alum
+group: current
 links:
   email: signe.edgar@gmail.com
 ---
