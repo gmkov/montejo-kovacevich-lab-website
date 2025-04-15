@@ -5,7 +5,7 @@
 
 **Website under slow construction!**
 
-We investigate the mechanisms that promote—or constrain—local adaptation. By integrating genomics with ecological and natural history approaches, we explore the mode and tempo of evolution in natural populations. Since September 2024, our group has been based at Uppsala University.
+We study the mechanisms that promote—or constrain—local adaptation. By integrating genomics with ecological and natural history approaches, we explore the mode and tempo of evolution in natural populations. Since September 2024, our group has been based at Uppsala University.
 
 Some of the questions that motivate us are: How do organisms adapt to their local environments? How quickly can they do so? Is biodiversity able to keep pace with anthropogenic change and how? Our current study systems include _Euphydryas editha_ butterflies in North America and insect biocontrol agents in the South Pacific.
 
@@ -15,7 +15,7 @@ Some of the questions that motivate us are: How do organisms adapt to their loca
 
 {% capture text %}
 
-Most recent publications are automatically added here, if the PI is an author!
+Most recent publications are automatically added here
 
 {%
   include button.html
