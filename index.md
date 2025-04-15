@@ -46,7 +46,7 @@ Most recent publications are automatically added here, if the PI is an author!
   include button.html
   link="research"
   text="See our publications"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}
