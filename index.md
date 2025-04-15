@@ -3,7 +3,12 @@
 
 # Welcome
 
-We study the genomics of adaptation to the environment in insects. **Website under slow construction!**
+**Website under slow construction!**
+
+We study the mechanisms promoting (or preventing) local adaptation. Our research combines the power of genomics with ecological and natural history approaches to gain insights into the mode and tempo of evolution in the wild. Based in Uppsala University since September 2024.
+
+Check out the website and get in touch if you’d like to join us.
+
 
 {% include section.html %}
 
@@ -11,7 +16,7 @@ We study the genomics of adaptation to the environment in insects. **Website und
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Most recent publications can be found here
 
 {%
   include button.html
@@ -34,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out a non-exhaustive list of active and past projects in the lab. Includes tutorials and datasets.
 
 {%
   include button.html
@@ -59,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are an international team of researchers based in the Department of Ecology and Genetics (Uppsala University, Sweden) and collaborators from around the globe.
 
 {%
   include button.html
