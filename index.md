@@ -7,9 +7,6 @@
 
 We study the mechanisms promoting (or preventing) local adaptation. Our research combines the power of genomics with ecological and natural history approaches to gain insights into the mode and tempo of evolution in the wild. Based in Uppsala University since September 2024.
 
-Check out the website and get in touch if you’d like to join us.
-
-
 {% include section.html %}
 
 ## Highlights
