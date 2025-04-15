@@ -15,6 +15,29 @@ Some of the questions that motivate us are: How do organisms adapt to their loca
 
 {% capture text %}
 
+Most recent publications are automatically added here, if the PI is an author!
+
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/two.euphies.jpeg"
+  link="research"
+  title="Our Research"
+  text=text
+%}
+
+{% capture text %}
+
 Check out a non-exhaustive list of active and past projects in the lab. Includes tutorials and datasets.
 
 {%
@@ -38,28 +61,6 @@ Check out a non-exhaustive list of active and past projects in the lab. Includes
   text=text
 %}
 
-{% capture text %}
-
-Most recent publications are automatically added here, if the PI is an author!
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/two.euphies.jpeg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
 
 {% capture text %}
 
