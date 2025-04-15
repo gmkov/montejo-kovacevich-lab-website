@@ -5,34 +5,13 @@
 
 **Website under slow construction!**
 
-We study the mechanisms promoting (or preventing) local adaptation. Our research combines the power of genomics with ecological and natural history approaches to gain insights into the mode and tempo of evolution in the wild. Based in Uppsala University since September 2024.
+We investigate the mechanisms that promote—or constrain—local adaptation. By integrating genomics with ecological and natural history approaches, we explore the mode and tempo of evolution in natural populations. Since September 2024, our group has been based at Uppsala University.
+
+Some of the questions that motivate us are: How do organisms adapt to their local environments? How quickly can they do so? Is biodiversity able to keep pace with anthropogenic change and how? Our current study systems include _Euphydryas editha_ butterflies in North America and insect biocontrol agents in the South Pacific.
 
 {% include section.html %}
 
 ## Highlights
-
-{% capture text %}
-
-Most recent publications can be found here
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
 
 {% capture text %}
 
@@ -51,11 +30,34 @@ Check out a non-exhaustive list of active and past projects in the lab. Includes
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/fire.sunset.jpeg"
   link="projects"
   title="Our Projects"
   flip=true
   style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+Most recent publications are automatically added here, if the PI is an author!
+
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/two.euphies.jpeg"
+  link="research"
+  title="Our Research"
   text=text
 %}
 
@@ -76,7 +78,7 @@ We are an international team of researchers based in the Department of Ecology a
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/christina.lab.jpg"
   link="team"
   title="Our Team"
   text=text
