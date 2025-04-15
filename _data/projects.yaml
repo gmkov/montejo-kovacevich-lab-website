@@ -1,10 +1,10 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: GBIF interactive map
+  subtitle: Extract occurences from GBIF, get elevations and make maps
   group: featured
-  image: images/photo.jpg
+  image: images/gbif.map.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Extract occurences from GBIF and make an interactive and pretty plot. It can 
+  repo: gmkov/mk-lab-public/tree/main/tutorials/interactive.gbif.map/
   tags:
     - resource
 
