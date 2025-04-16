@@ -10,14 +10,12 @@
 
 - title: Cool Package
   subtitle: a subtitle
-  group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
-  hidden: true
 
 - title: Cool Tutorial
   subtitle: a subtitle
@@ -28,7 +26,6 @@
   tags:
     - resource
     - publication
-  hidden: true
 
 - title: Cool Web App
   subtitle: a subtitle
@@ -38,7 +35,7 @@
   repo: greenelab/lab-website-template
   tags:
     - software
-  hidden: true
+
 
 - title: Cool Web Server
   subtitle: a subtitle
@@ -48,4 +45,3 @@
   repo: greenelab/lab-website-template
   tags:
     - software
-  hidden: true
