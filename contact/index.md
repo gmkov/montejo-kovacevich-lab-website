@@ -47,14 +47,11 @@ The lab is based in the Animal Ecology Program at the Ecology and Genetics Depar
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
+{% capture col1 %}  {% endcapture %}
 
-{% capture col1 %}
-{% endcapture %}
+{% capture col2 %}  {% endcapture %}
 
-{% capture col2 %}
-Evolutionary Biology Centrum, Uppsala University
-{% endcapture %}
+{% capture col3 %} {% endcapture %}
 
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
-{% include cols.html col1=col1 col2=col2%}
