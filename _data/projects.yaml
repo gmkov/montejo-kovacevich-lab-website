@@ -2,11 +2,11 @@
   subtitle: Extract occurences from GBIF, get elevations and make maps
   group: featured
   image: images/gbif.map.png
-  link: https://github.com/
-  description: Extract occurences from GBIF and make an interactive and pretty plot. It can 
+  link: https://github.com/gmkov/mk-lab-public/tree/main/tutorials/interactive.gbif.map/
+  description: Extract occurences from GBIF and make an interactive and pretty plot. It can include photo thumbnails or any data you wish to add. Project started by Edgar Signe (intern Brest University, France) 
   repo: gmkov/mk-lab-public/tree/main/tutorials/interactive.gbif.map/
   tags:
-    - resource
+    - tutorial
 
 - title: Cool Package
   subtitle: a subtitle
@@ -17,6 +17,7 @@
   repo: greenelab/lab-website-template
   tags:
     - resource
+  hidden: true
 
 - title: Cool Tutorial
   subtitle: a subtitle
@@ -27,6 +28,7 @@
   tags:
     - resource
     - publication
+  hidden: true
 
 - title: Cool Web App
   subtitle: a subtitle
@@ -36,6 +38,7 @@
   repo: greenelab/lab-website-template
   tags:
     - software
+  hidden: true
 
 - title: Cool Web Server
   subtitle: a subtitle
@@ -45,3 +48,4 @@
   repo: greenelab/lab-website-template
   tags:
     - software
+  hidden: true
