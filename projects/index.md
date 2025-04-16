@@ -23,4 +23,4 @@ We combine environmental, ecological and genomic tools. Here are some of our cur
 
 ## More
 
-<!-- {% include list.html component="card" data="projects" filter="!group" style="small" %}
+<!-- {% include list.html component="card" data="projects" filter="!group" style="small" %} -->
