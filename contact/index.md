@@ -17,7 +17,7 @@ The lab is based in the Animal Ecology Program at the Ecology and Genetics Depar
 %}
 {%
   include button.html
-  type="Address"
+  type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/YEZXoRv3f2AoyDbU9"
 %}
@@ -29,8 +29,8 @@ The lab is based in the Animal Ecology Program at the Ecology and Genetics Depar
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/ebc.jpg"
+  caption="Evolutionary Biology Centrum, Uppsala"
 %}
 
 {% endcapture %}
@@ -39,8 +39,8 @@ The lab is based in the Animal Ecology Program at the Ecology and Genetics Depar
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/stadsskogen.webp"
+  caption="Stadsskogen "city forest" Uppsala"
 %}
 
 {% endcapture %}
@@ -50,19 +50,11 @@ The lab is based in the Animal Ecology Program at the Ecology and Genetics Depar
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
 {% endcapture %}
 
 {% capture col2 %}
 Evolutionary Biology Centrum, Uppsala University
 {% endcapture %}
 
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
 
-{% include cols.html col1=col1 %}
+{% include cols.html col1=col1 col2=col2%}
