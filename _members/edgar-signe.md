@@ -2,9 +2,9 @@
 name: Edgar Signe
 image: images/image.jpeg
 role: intern
-group: current
+group: alum
 links:
   email: signe.edgar@gmail.com
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Second-year student in environmental research at the University of Brest, France, working on interactive GBIF maps.
