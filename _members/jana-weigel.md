@@ -1,5 +1,5 @@
 ---
-name: Jana Weigel
+name: Jana Olivia Weigel
 image: images/jana.weigel.jpg
 role: master
 group: current
