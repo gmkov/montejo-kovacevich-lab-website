@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2025.12.25.696198
+  title: The collision of two genomes threatens global food security
+  authors:
+  - Henry L North
+  - Gabriela Montejo-Kovacevich
+  - Douglas Amado
+  - Ian A Warren
+  - Marek Kucka
+  - Abby Williams
+  - Yingguang Frank Chan
+  - Tom Walsh
+  - Alberto Soares Correa
+  - Celso Omoto
+  - Chris D Jiggins
+  publisher: openRxiv
+  date: '2025-12-25'
+  link: https://doi.org/hbg9d2
+  orcid: 0000-0003-3716-9929
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.08.29.673045
   title: Disentangling local adaptation and phenotypic plasticity in traits associated
     with altitude and temperature in widespread tropical butterflies
@@ -63,8 +83,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/phen.12431
-  title: Heat stress reduced survival but sped up development in <i>Heliconius erato</i>
-    butterflies
+  title: "Heat stress reduced survival but sped up development in\n              \
+    \      <i>Heliconius erato</i>\n                    butterflies"
   authors:
   - Yuqian Huang
   - Josie McPherson
@@ -303,8 +323,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ece3.6079
-  title: Species specificity and intraspecific variation in the chemical profiles
-    of <i>Heliconius</i> butterflies across a large geographic range
+  title: "Species specificity and intraspecific variation in the chemical profiles\
+    \ of\n                    <i>Heliconius</i>\n                    butterflies across\
+    \ a large geographic range"
   authors:
   - Kathy Darragh
   - "Gabriela Montejo\u2010Kovacevich"
@@ -395,7 +416,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/evo.13865
-  title: "Altitude and life\u2010history shape the evolution of<i>Heliconius</i>wings"
+  title: "Altitude and life\u2010history shape the evolution of\n                \
+    \    <i>Heliconius</i>\n                    wings"
   authors:
   - "Gabriela Montejo\u2010Kovacevich"
   - Jennifer E. Smith
