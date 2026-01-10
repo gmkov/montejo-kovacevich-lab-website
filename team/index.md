@@ -23,7 +23,6 @@ nav:
 
 ## Gone but not forgotten
 
-No one yet!
 {% include list.html data="members" component="portrait" filter="group== 'alum'" style="small" %}
 
 
