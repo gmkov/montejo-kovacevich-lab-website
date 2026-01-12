@@ -7,4 +7,4 @@ links:
   email: christina.panagaki@ebc.uu.se
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Her research explores how butterflies evolve in response to environmental change, with a focus on genetic variation, adaptation, and extinction risk. Using a combination of museum collections, field data, and genomics, she will investigate rapid evolution in various butterfly systems, including the species Hyponephele lycaon and Euphydryas editha.
