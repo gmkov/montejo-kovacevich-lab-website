@@ -15,12 +15,14 @@ We combine environmental, ecological and genomic tools. Here are some of our cur
 
 {% include section.html %}
 
-## Featured
+## Latest
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 ## More
+
+{% include list.html component="card" data="projects" filter="group == 'old'" %}
 
 <!-- {% include list.html component="card" data="projects" filter="!group" style="small" %} -->
