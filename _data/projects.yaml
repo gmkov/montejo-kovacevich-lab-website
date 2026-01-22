@@ -9,7 +9,7 @@
     - tutorial
 
 - title: SciLifeLab collabrative SFO funding 
-  subtitle: 1 million KR
+  subtitle: 1 million KR for M-K lab
   group: featured
   image: images/kullenberg.jpeg
   link: https://www.uu.se/evolutionsmuseet
@@ -17,15 +17,14 @@
   tags:
     - funding
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Vinnova Innovation Planning project
+  subtitle: 1 million KR for Linneaus 2.0 consortia (10% M-K lab)
+  group: featured
+  image: images/museum.butterflies.jpeg
+  link: https://www.scilifelab.se/news/using-natural-history-collections-for-research-innovation/
+  description: We have received funding as a consortia of flagship projects with the aim to create a cluster of excellence to make Sweden a world-leader in using museum collections the centre of innovation and research.
   tags:
-    - resource
-    - publication
+    - funding
 
 - title: Cool Web App
   subtitle: a subtitle
