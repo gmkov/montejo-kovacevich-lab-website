@@ -1,6 +1,6 @@
 - title: GBIF interactive map
   subtitle: Extract occurences from GBIF, get elevations and make maps
-  group: featured
+  group: old
   image: images/gbif.map.png
   link: https://github.com/gmkov/mk-lab-public/tree/main/tutorials/interactive.gbif.map/
   description: Extract occurences from GBIF and make an interactive and pretty plot. It can include photo thumbnails or any data you wish to add. Project started by Edgar Signe (intern Brest University, France) 
@@ -8,14 +8,15 @@
   tags:
     - tutorial
 
-- title: Cool Package
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: SciLifeLab collabrative SFO funding 
+  subtitle: 1 million KR
+  group: featured
+  image: images/kullenberg.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: We were awarded generous funding to develop upscaled museomic methods to study genomic timeseries from historical samples. We will focus in Uppsala's Evolution Museum, which harbours collections from Professor Kullenberg and his students since the 1940s. In collaboration with co-PI Tobias Andermann (IOB), we will study biodiversity changes in Uppsala through the last century.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - funding
 
 - title: Cool Tutorial
   subtitle: a subtitle
