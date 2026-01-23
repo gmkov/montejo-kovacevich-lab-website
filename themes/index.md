@@ -2,7 +2,7 @@
 title: Research Themes
 nav:
   order: 1
-  tooltip: some of our interests
+  tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-microscope" %}Research
