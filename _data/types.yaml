@@ -34,6 +34,10 @@ programmer:
   icon: fa-solid fa-code
   description: Programmer
 
+data:
+  icon: fa-solid fa-code
+  description: Data Scientist
+
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
