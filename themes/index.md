@@ -23,4 +23,4 @@ We are currently working with Landcare Research in New Zealand, studying genomic
 
 Insects are the most species-rich group on Earth (>1 million described), yet largely understudied. A notable exception is butterflies (~17,500 species described), which have been studied and collected for centuries. We use butterflies and moths, Lepidoptera, to study the impacts of anthropogenic change on biodiversity and to explain evolution/research to a wider audience.
 
-Past work includes assessing different selective logging strategies to improve butterfly conservation in Brazil (link[https://www.sciencedirect.com/science/article/abs/pii/S0006320718304142]) and Peru (GreenGold forestry, in prep.)
+Past work includes assessing different selective logging strategies to improve butterfly conservation in Brazil ([link](https://www.sciencedirect.com/science/article/abs/pii/S0006320718304142)) and Peru (GreenGold forestry, in prep.)
