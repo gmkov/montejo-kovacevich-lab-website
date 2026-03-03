@@ -1,7 +1,7 @@
 ---
 name: Britt Andermann
 image: images/britt.jpg
-role: datasci
+role: postdoc
 group: current
 links:
   email: britt.andermann@em.uu.se
