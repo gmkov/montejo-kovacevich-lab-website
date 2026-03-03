@@ -11,6 +11,8 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'datasci' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'programmer' and group == 'current'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'current'" %}
 {% include list.html data="members" component="portrait" filter="role == 'master' and group == 'current'" %}
 {% include list.html data="members" component="portrait" filter="role == 'intern' and group == 'current'" %}
