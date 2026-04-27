@@ -3,17 +3,17 @@
 - id: doi:10.64898/2025.12.25.696198
   title: The collision of two genomes threatens global food security
   authors:
-  - Henry L North
+  - Henry L. North
   - Gabriela Montejo-Kovacevich
   - Douglas Amado
-  - Ian A Warren
+  - Ian A. Warren
   - Marek Kucka
   - Abby Williams
   - Yingguang Frank Chan
   - Tom Walsh
-  - Alberto Soares Correa
+  - "Alberto Soares Corr\xEAa"
   - Celso Omoto
-  - Chris D Jiggins
+  - Chris D. Jiggins
   publisher: openRxiv
   date: '2025-12-25'
   link: https://doi.org/hbg9d2
@@ -34,15 +34,16 @@
   - Chris D. Jiggins
   - Caroline N. Bacquet
   - Nicola J. Nadeau
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-09-02'
   link: https://doi.org/g946rp
   orcid: 0000-0003-3716-9929
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2024.07.28.605483
-  title: "The genetic architecture of resistance to flubendiamide insecticides in<i>Helicoverpa\
-    \ armigera</i>(H\xFCbner) (Lepidoptera: Noctuidae)"
+  title: "The genetic architecture of resistance to flubendiamide insecticides in\n\
+    \                  <i>Helicoverpa armigera</i>\n                  (H\xFCbner)\
+    \ (Lepidoptera: Noctuidae)"
   authors:
   - Douglas Amado
   - Eva L. Koch
@@ -55,7 +56,7 @@
   - "Alberto S. Corr\xEAa"
   - Chris D. Jiggins
   - Celso Omoto
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-07-28'
   link: https://doi.org/g89d2x
   orcid: 0000-0003-3716-9929
@@ -112,20 +113,21 @@
   - Chris D. Jiggins
   - Joana Meier
   - Camilo Salazar
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-03-08'
   link: https://doi.org/g89d23
   orcid: 0000-0003-3716-9929
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.12.07.519472
-  title: Effects of temperature on the development of<i>Heliconius erato</i>butterflies
+  title: "Effects of temperature on the development of\n                  <i>Heliconius\
+    \ erato</i>\n                  butterflies"
   authors:
   - Yuqian Huang
   - Josie McPherson
   - Chris D. Jiggins
   - Gabriela Montejo-Kovacevich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-12-09'
   link: https://doi.org/g89d24
   orcid: 0000-0003-3716-9929
@@ -186,7 +188,7 @@
   - Nicola J. Nadeau
   - Simon Martin
   - Chris D. Jiggins
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-12-01'
   link: https://doi.org/g89d25
   orcid: 0000-0003-3716-9929
@@ -271,7 +273,7 @@
   - Chris D. Jiggins
   - Joana I. Meier
   - Nicola J. Nadeau
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-12-06'
   link: https://doi.org/gsx95h
   orcid: 0000-0003-3716-9929
@@ -292,8 +294,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.05.26.116533
-  title: <i>Cortex cis</i>-regulatory switches establish scale colour identity and
-    pattern diversity in<i>Heliconius</i>
+  title: "<i>Cortex cis</i>\n                  -regulatory switches establish scale\
+    \ colour identity and pattern diversity in\n                  <i>Heliconius</i>"
   authors:
   - Luca Livraghi
   - Joseph J. Hanly
@@ -316,7 +318,7 @@
   - Arnaud Martin
   - W. Owen McMillan
   - Chris D. Jiggins
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-05-29'
   link: https://doi.org/gszc9z
   orcid: 0000-0003-3716-9929
@@ -357,15 +359,16 @@
   - W. Owen McMillan
   - Riccardo Papa
   - Brian A. Counterman
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-04-11'
   link: https://doi.org/gkxjbd
   orcid: 0000-0003-3716-9929
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.01.14.905950
-  title: Evolutionary and ecological processes influencing chemical defense variation
-    in an aposematic and mimetic<i>Heliconius</i>butterfly
+  title: "Evolutionary and ecological processes influencing chemical defense variation\
+    \ in an aposematic and mimetic\n                  <i>Heliconius</i>\n        \
+    \          butterfly"
   authors:
   - Anniina L. K. Mattila
   - Chris D. Jiggins
@@ -375,7 +378,7 @@
   - William O. McMillan
   - Caroline Bacquet
   - Marjo Saastamoinen
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-01-15'
   link: https://doi.org/gk224z
   orcid: 0000-0003-3716-9929
@@ -409,7 +412,7 @@
   - Monica Monllor
   - Chris D. Jiggins
   - Nicola J. Nadeau
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-12-19'
   link: https://doi.org/gkz422
   orcid: 0000-0003-3716-9929
@@ -433,7 +436,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/690396
-  title: Altitude and life-history shape the evolution of<i>Heliconius</i>wings
+  title: "Altitude and life-history shape the evolution of\n                  <i>Heliconius</i>\n\
+    \                  wings"
   authors:
   - Gabriela Montejo-Kovacevich
   - Jennifer E. Smith
@@ -442,15 +446,16 @@
   - Eva Whiltshire-Romero
   - Nicola J. Nadeau
   - Chris D. Jiggins
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-07-02'
   link: https://doi.org/gkxh4f
   orcid: 0000-0003-3716-9929
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/573469
-  title: Species specificity and intraspecific variation in the chemical profiles
-    of<i>Heliconius</i>butterflies across a large geographic range
+  title: "Species specificity and intraspecific variation in the chemical profiles\
+    \ of\n                  <i>Heliconius</i>\n                  butterflies across\
+    \ a large geographic range"
   authors:
   - Kathy Darragh
   - Gabriela Montejo-Kovacevich
@@ -465,7 +470,7 @@
   - W. Owen McMillan
   - Stefan Schulz
   - Chris D. Jiggins
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-03-14'
   link: https://doi.org/gkvqw4
   orcid: 0000-0003-3716-9929
