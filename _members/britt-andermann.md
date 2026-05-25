@@ -2,7 +2,7 @@
 name: Britt Andermann
 image: images/britt.jpg
 role: datasci
-group: current
+group: alum
 links:
   email: britt.andermann@em.uu.se
 ---
