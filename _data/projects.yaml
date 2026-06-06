@@ -10,7 +10,7 @@
 
 - title: SciLifeLab collabrative SFO funding 
   subtitle: 1 million KR for M-K lab
-  group: featured
+  group: old
   image: images/kullenberg.jpeg
   link: https://www.uu.se/evolutionsmuseet
   description: We were awarded generous funding to develop upscaled museomic DNA and library prep methods to study genomic timeseries from historical samples. We will focus in Uppsala's Evolutionsmuseet, which harbours collections from Professor Kullenberg and his students since the 1940s. In collaboration with co-PI Tobias Andermann (IOB), we will study biodiversity changes in Uppsala through the last century.
@@ -19,10 +19,24 @@
 
 - title: Vinnova Innovation Planning project
   subtitle: 1 million KR for Linneaus 2.0 consortia (10% M-K lab)
-  group: featured
+  group: old
   image: images/museum.butterflies.jpeg
   link: https://www.scilifelab.se/news/using-natural-history-collections-for-research-innovation/
   description: We have received funding as a consortia of flagship projects with the aim to create a cluster of excellence to make Sweden a world-leader in using museum collections the centre of innovation and research.
+  tags:
+    - funding
+
+- title: Sven and Lily Lawskis Fellowship in genetics for Will Rosenthal
+  group: featured
+  image: images/sven-Lawski.jpg
+  description: Incoming postdoc Will Rosenthal (PhD at University of Wyoming) has received a two year fellowship to study repeated, rapid evolution in biocontrol and pests. 
+  tags:
+    - funding
+
+- title: Wenner-Gren fellowship for Edd Page
+  group: featured
+  image: images/wenner-gren-logo.png
+  description: Incoming postdoc Edd Page (PhD at University of York) has received a two year fellowship to study thermal adaptation in Euphydryas butterflies. 
   tags:
     - funding
 
