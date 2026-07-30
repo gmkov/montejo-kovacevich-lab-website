@@ -2,7 +2,7 @@
 name:  Raissa Rauch
 image: images/raissa.jpeg
 role: master
-group: current
+group: alumn
 links:
   email: raissa.rauch.0351@student.uu.se
 ---
