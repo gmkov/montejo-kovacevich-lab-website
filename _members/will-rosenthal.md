@@ -3,7 +3,8 @@ name: Will Rosenthal
 image: images/WillR_photo.jpg
 role: postdoc
 group: current
-links: https://willrosenth.weebly.com/
+links: 
+  website: https://willrosenth.weebly.com/
   email: will.rosenth@gmail.com
 ---
 
