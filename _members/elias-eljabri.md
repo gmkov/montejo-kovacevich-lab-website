@@ -2,7 +2,7 @@
 name: Elias El Jabri
 image: images/elias.eljabri.png
 role: intern
-group: current
+group: alum
 links:
   email: elias.eljabri11@gmail.com
 ---
