@@ -43,7 +43,7 @@ mascot:
   description: Mascot
 
 labengineer:
-  icon: fa-solid fa-lab
+  icon: fa-solid fa-flask
   description: Lab engineer
   
 # general
