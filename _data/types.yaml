@@ -42,6 +42,10 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+labengineer:
+  icon: fa-solid fa-lab
+  description: Lab engineer
+  
 # general
 
 link:
