@@ -1,2 +1,8 @@
-
-
+# Manually-added citations (optional).
+# Your papers are pulled in automatically from ORCID (see orcid.yaml).
+# Add entries here only for papers ORCID doesn't find, e.g.:
+#
+# - id: doi:10.1234/example
+#
+# Keep the empty list below so the file is valid when there are no entries.
+[]
